@@ -1,5 +1,4 @@
 
----
 
 # ⚡ National Electricity Market (NEM): Emissions & Market Analysis (2011–2025)
 
